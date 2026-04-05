@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "In My Time of Dying (Remaster)",
+  "base_artist": "Led Zeppelin",
+  "createdAt": "2026-04-05T07:04:12.935707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In My Time of Dying  (Remaster)",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/01_In_My_Time_of_Dying_(Remaster)_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In My Time of Dying - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/02_In_My_Time_of_Dying_-_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "30.In My Time of Dying - Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_30.In_My_Time_of_Dying_-_Remaster_Led_Zeppelin.lrc"
+    }
+  ]
+}
